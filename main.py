@@ -10,3 +10,5 @@ elif b > a:
 
 else:
     print("a равно b")
+
+print("это мне не нужно")
